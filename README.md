@@ -17,17 +17,3 @@ I will be looking to understand:
 * discrepancy between charges and payments at the state level
 * discrepancy between charges and payments at DRG level
 
-Installation
-----------------------
-
-### Install the requirements
- 
-* Install the requirements using `pip install -r requirements.txt`.
-    * Make sure you use Python 3.
-    * You may want to use a virtual environment for this.
-
-Extending this
--------------------------
-
-If you want to extend this work, here are a few places to start:
-* 
