@@ -9,10 +9,10 @@ Various factors are attributed to this:
 * defensive medicine causing unnecessary treatments
 * hospital consolidation causing monopolies
 * medical billing codes becoming a business in itself to maximize revenue
-* no negotiation mechanism for price control
+* no negotiation mechanism for price control for private insurance
 * providers can charge what the market will bear
 
-The Medicare program run by the government has a price control mechanism in the sense that it has a standard for payments based on the DRG (Diagnosis-Related Group) system and thus gets the lowest prices. Otherwise for the rest of the insurance market, providers can more or less charge whatever they can.
+The Medicare program run by the government does have a price control mechanism. It has a standard for payments based on the DRG (Diagnosis-Related Group) system and gets lowest prices. In contrast for the rest of the insurance market, providers can more or less charge whatever they can.
 
 In this project, I have analyzed summary **Medicare payment data** for the **top 100 DRGs** from 2011. The data is available [here](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3) at the CMS website.
 
