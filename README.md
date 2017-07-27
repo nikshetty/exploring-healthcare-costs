@@ -1,17 +1,16 @@
 Exploring Healthcare Costs
 -----------------------
 #### US Healthcare Costs
-US Healthcare Cost issues are quite well known.
-* The US spends $3 trillion per year on healthcare. It spends more per capita on healthcare than any other country.
-* The US spends about 18% of its GDP on healthcare which is 2 to 3 times more than other countries.
-* Various factors are attributed to this
-  * high inpatient/outpatient treatment costs
-  * high administrative costs
-  * defensive medicine causing unnecessary treatments
-  * hospital consolidation causing monopolies
-  * medical billing codes becoming a business in itself to maximize revenue
-  * no negotiation mechanism for price control
-  * providers can charge what the market will bear
+The US spends $3 trillion per year on healthcare. It spends more per capita on healthcare than any other country. The US spends about 18% of its GDP on healthcare which is 2 to 3 times more than other countries.
+
+Various factors are attributed to this:
+* high inpatient/outpatient treatment costs
+* high administrative costs
+* defensive medicine causing unnecessary treatments
+* hospital consolidation causing monopolies
+* medical billing codes becoming a business in itself to maximize revenue
+* no negotiation mechanism for price control
+* providers can charge what the market will bear
 
 The Medicare program run by the government has a price control mechanism in the sense that it has a standard for payments based on the DRG (Diagnosis-Related Group) system and thus gets the lowest prices. Otherwise for the rest of the insurance market, providers can more or less charge whatever they can.
 
@@ -39,9 +38,9 @@ The data includes hospital-specific charges for the more than **3,000 U.S. hospi
 
 #### My Objective
 As part of this project I will be exploring the data and creating visualizations to depict:
-* variation in charges for DRGs across states
-* variation in payments for DRGs across states
-* variation in overcharge (gap between charges and payments) for DRGs across states
+* variation in charges by providers for DRGs across states
+* variation in Medicare payments to providers for DRGs across states
+* variation in the overcharge (difference between charges and payments) for DRGs across states
 
 #### My Approach
 
